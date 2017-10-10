@@ -1,0 +1,3 @@
+# Ignore all SQLite databses
+db/*.sqlite3
+
